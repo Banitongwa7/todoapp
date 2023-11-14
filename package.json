@@ -12,7 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "html2pug": "^4.0.0",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.22"
   },
   "dependencies": {
     "body-parser": "^1.20.1",
